@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="download_url">http://quotes.gouravkhunger.xyz</string>
+</resources>
